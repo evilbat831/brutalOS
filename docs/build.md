@@ -1,4 +1,4 @@
-# Building pranaOS:
+# Building brutalOS:
 
 - tools need:
 
@@ -24,9 +24,9 @@ it is a compiler built by google
 - it is very important for this project
 
 
-# Building pranaOS for x86:
+# Building brutalOS for x86:
 ```
-git clone https://github.com/pranaOS/pranaOS
+git clone https://github.com/evilbat831/brutalOS
 ./build.sh
 ./out/all.sh
 ```
