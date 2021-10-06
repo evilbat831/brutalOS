@@ -1,4 +1,4 @@
-# pranaOS
+# ElCaptian
 A unix operating system written from scratch in c / c++ targeting x86 and arm
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
@@ -51,7 +51,7 @@ A unix operating system written from scratch in c / c++ targeting x86 and arm
 ```
 BSD 2-Clause License
 
-Copyright (c) 2021, Krisna Pranav
+Copyright (c) 2021, Krisna Pranav, Henry
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
